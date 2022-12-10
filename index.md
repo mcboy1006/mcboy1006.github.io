@@ -19,4 +19,4 @@ My GitHub page is http://github.com/mcboy1006.
 
 * Lab 12
 
-    Lab 12, part 1 was a favorite because I was about to write a code that can make an animated gif. I was able to write the function that would alter the color and make it move. As I saw it work for the first time, it was a great accomplishment
+    Lab 12, part 1 was a favorite because I was about to write a code that can make an animated gif. I was able to write the function that would alter the color and make it move. As I saw it work for the first time, it was a great accomplishment.
