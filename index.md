@@ -10,7 +10,7 @@ My GitHub page is http://github.com/mcboy1006.
 
 * Lab 9
 
-    Lab 9, part 2 was a favorite because I was curious about how the code would find speeling errors in each word.
+    Lab 9, part 2 was a favorite because I was curious about how the code would find spelling errors in each word.
     I was able to write the function of each word being looked at and corrected. It was amazing to see it work.
 
 * Lab 10
