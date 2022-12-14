@@ -10,12 +10,12 @@ My GitHub page is http://github.com/mcboy1006.
 
 * Lab 9
 
-    Lab 9, part 2 was a favorite because I was curious about how the code would find spelling errors in each word and put it into vectors. I was able to write the function that will look at each word and see if there is a spelling error. I then realized that the whole point of this lab is to know how to make a code that would create vectors and how to define functions. It was amazing to see it work.
+    Lab 9, part 2 was a favorite because I was curious about how the code would find spelling errors in each word and put it into vectors. I was able to write a function that would look at each word to see if there was a spelling error. The objective of this lab was to learn how to write a code that would create vectors and define functions. It was amazing to see that it takes these kinds of codes for spell check programs to work like in Grammarly and Google Docs.
 
 * Lab 10
 
-    Lab 10, part 3 was a favorite because I was always curious about how the code would alter the color of the picture. I was able to write the function of altering the amount of pixel color to the RGB of each pixel. I then realized that the point of the lab was to be able to write 2D vectors. As I watched it, it blew my mind.
+    Lab 10, part 3 was a favorite because I was always curious about how you could use coding to alter the color of pictures. I was able to write the function that alters the amount of pixel color to the RGB of each pixel. I then realized that the goal of this lab was write 2D vectors. It was interesting to see that there is a code like this that could change the color of each pixel to make an entirely new image.
 
 * Lab 12
 
-    Lab 12, part 1 was a favorite because I was about to write a code that can make an animated gif. I was able to write the function that would alter the color and make it move. I then realized that the whole point of the lab was to learn how to use trigonometric funtcions to make a lookup table. As I saw it work for the first time, it was a great accomplishment.
+    Lab 12, part 1 was a favorite because I learned how to write a code that can make an animated gif. I was able to write the function that would alter the colors of each pixel which made it seem like the image was moving. I learned that the objective of this lab was to learn how to use trigonometric funtcions to make a lookup table. As I saw it work for the first time, it was cool to see the code run and change each pixel's color at a specific time creating the moving animation.
